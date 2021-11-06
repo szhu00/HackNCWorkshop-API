@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(51, 3, 3);
+}
+
+.container{
+    text-align: center;
+    padding:10vh;
+    background-color: #e0d5a2;
+    margin-top: 30vh;
+    margin-left: 20vh;
+    margin-right:20vh;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(254, 255, 206); 
+}
+
+#rendernewBtn{
+ 
+    padding: 1vh;
+    background-color: rgb(219, 96, 106);
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#placecomplimentHere{
+    margin-bottom: 5vh;;
+}
