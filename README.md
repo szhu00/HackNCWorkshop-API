@@ -10,6 +10,5 @@
   - Eg. using Python2:
     
     ```
-    cd fall2021
     python -m SimpleHTTPServer
     ```
