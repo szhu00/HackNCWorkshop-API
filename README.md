@@ -6,5 +6,10 @@
 - Open up files in your choices of text-editor
 
 
-#run local server 
-python -m SimpleHTTPServer
+- Start a local webserver 
+  - Eg. using Python2:
+    
+    ```
+    cd fall2021
+    python -m SimpleHTTPServer
+    ```
